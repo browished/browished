@@ -36,7 +36,7 @@ hobbies: code, anime, music, gaming
 ```
 <p align="center"><img src="https://raw.githubusercontent.com/browished/browished/refs/heads/main/assets/images/Rainbow.gif" width="100%"></p>
 
-## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
+## <img src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width="50px" height=50px> Connect With Me
 <div align="left">
   <a href="https://www.youtube.com/@ZenithSenpai" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
