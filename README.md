@@ -15,7 +15,7 @@
       </p>
     </td>
     <td>
-      <img alt="Demon Slayer GIF" src="./assets/images/demon-sleyar.gif" style="max-width: 300px; border-radius: 10px;">
+      <img alt="Demon Slayer GIF" src="./assets/images/ax1.gif" style="max-width: 300px; border-radius: 10px;">
     </td>
   </tr>
 </table>
