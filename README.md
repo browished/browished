@@ -25,15 +25,24 @@
 </h2>
 
 ```js
-"name": "DEVROCK",
-"username": "browished",
-"age": 20,
-"job": "developer | Web developer",
-"hobbies": [
-"code",
-"anime",
-"music",
-"gaming"
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DEVROCK",
+  "license": "ISC",
+  "dependencies": {
+    // Add your project dependencies here
+  },
+  "devDependencies": {
+    // Add your development dependencies here
+  }
+}
 
 
 ```
