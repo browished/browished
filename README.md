@@ -2,7 +2,10 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/1261962174281289779/1292830160390983774/demon-sleyar.gif?ex=67052969&is=6703d7e9&hm=8f43866284fa968cc6e96710cc465ce88e5f31cdc33ff5a16f03bf8f67a310e2&"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=browished&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=browished&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -19,6 +22,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/1261962174281289779/1292830160390983774/demon-sleyar.gif?ex=67052969&is=6703d7e9&hm=8f43866284fa968cc6e96710cc465ce88e5f31cdc33ff5a16f03bf8f67a310e2&"  />
 
 ###
 
