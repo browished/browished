@@ -114,4 +114,10 @@ hobbies: code, anime, music, gaming
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=browished&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=browished&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/browished/browished/refs/heads/main/assets/images/Rainbow.gif" width="100%"></p>
 
