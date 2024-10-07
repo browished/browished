@@ -23,27 +23,12 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </h2>
-```
-javascript
+```js
+import packageJson from 'package-json';
 
-class Person {
-  constructor(name, username, age, job, hobbies) {
-    this.name = name;
-    this.username = username;
-    this.age = age;
-    this.job = job;
-    this.hobbies = hobbies;
-  }
-}
+console.log(await packageJson('ava'));
+//=> {name: 'ava', …}
 
-const me = new Person(
-  "DEVROCK",               // name
-  "browished",             // username
-  20,                      // age
-  "developer | Web developer",  // job
-  ["code", "anime", "music", "gaming"] // hobbies
-);
-
-console.log(me);
-
+// Also works with scoped packages
+console.log(await packageJson('@sindresorhus/df'));
 ```
