@@ -23,7 +23,9 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </h2>
-```javascript
+```
+javascript
+
 class Person {
   constructor(name, username, age, job, hobbies) {
     this.name = name;
@@ -43,4 +45,5 @@ const me = new Person(
 );
 
 console.log(me);
+
 ```
