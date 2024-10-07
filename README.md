@@ -24,17 +24,22 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </h2>
 
-```javascript
-{
-  "name": "DEVROCK",
-  "username": "browished",
-  "age": 20,
-  "job": "developer | Web developer",
-  "hobbies": [
-    "code",
-    "anime",
-    "music",
-    "gaming"
-  ]
+class Person {
+  constructor(name, username, age, job, hobbies) {
+    this.name = name;
+    this.username = username;
+    this.age = age;
+    this.job = job;
+    this.hobbies = hobbies;
+  }
 }
-```
+
+const me = new Person(
+  "DEVROCK",               // name
+  "browished",             // username
+  20,                      // age
+  "developer | Web developer",  // job
+  ["code", "anime", "music", "gaming"] // hobbies
+);
+
+console.log(me);
