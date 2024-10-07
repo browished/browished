@@ -2,15 +2,25 @@
 <img width=100% title="DEVROCK" alt="DEVROCK" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DEVROCK&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 <div align="center">
  
-<table style="border:none; width:100%;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle;">
-      <p><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+DEVROCK+AKA+DEVBHAKAT;" alt="Typing animation"/></p>
-      <p><img width="150" src="https://komarev.com/ghpvc/?username=browished&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Profile Visitor Counter"/></p>
-      <p><img width="280" src="https://github-widgetbox.vercel.app/api/profile?username=browished&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub Stats"/></p>
-    </td>
-    <td style="text-align:center; vertical-align:middle;">
-      <img src="./assets/images/demon-sleyar.gif" alt="Demon Slayer GIF" style="max-width:100%; height:auto;">
-    </td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:center; align-items:center; background-color:#0a0c10; padding:20px; border-radius:10px;">
+  <div style="text-align:center; margin-right:20px;">
+    <h1 style="color:#00bfff; font-family: 'Courier New', Courier, monospace;">Hi There! 👋</h1>
+    <div style="background-color:#1f1f1f; padding:10px; border-radius:5px; display:inline-block;">
+      <p style="color:#dcdcdc; font-family:sans-serif; font-size:14px;">PROFILE VISITOR</p>
+      <p style="color:#00bfff; font-family:sans-serif; font-size:20px; margin:0;">569,458</p>
+    </div>
+    <div style="margin-top:20px;">
+      <a href="https://github.com/browished" style="text-decoration:none;">
+        <button style="background-color:#071A2C; color:white; font-size:14px; border:none; padding:10px 20px; border-radius:25px; cursor:pointer;">browished</button>
+      </a>
+      <div style="margin-top:10px;">
+        <button style="background-color:#3ccf91; color:#ffffff; border:none; padding:5px 15px; border-radius:10px; margin:5px;">Followers</button>
+        <button style="background-color:#ff5c5c; color:#ffffff; border:none; padding:5px 15px; border-radius:10px; margin:5px;">Stars</button>
+        <button style="background-color:#00bfff; color:#ffffff; border:none; padding:5px 15px; border-radius:10px; margin:5px;">Repos</button>
+      </div>
+    </div>
+  </div>
+  <div>
+    <img src="./assets/images/demon-sleyar.gif" alt="Demon Slayer GIF" style="max-width:300px; border-radius:10px;">
+  </div>
+</div>
