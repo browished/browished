@@ -61,7 +61,7 @@ hobbies: code, anime, music, gaming
 <p align="center"><img src="https://raw.githubusercontent.com/browished/browished/refs/heads/main/assets/images/Rainbow.gif" width="100%"></p>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
+## <img src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif" width = 32px>My Favorite Tools And Technologies ⚙️
 
 > Tools and technologies that I have worked with and I'm interested in
 
@@ -121,7 +121,7 @@ hobbies: code, anime, music, gaming
 
 <p align="center"><img src="https://raw.githubusercontent.com/browished/browished/refs/heads/main/assets/images/Rainbow.gif" width="100%"></p>
 
-### 📊 Commonly Used Languages 
+## <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgzMTU3MTgsIm5iZiI6MTcyODMxNTQxOCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA3VDE1MzY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmMDBiYTEzZWI3NjM5MjI2OGMzYzk4ZGZhNzQyZDlkMTNjM2U3ZTVmYzY2YmEwYzk4YWYwYTRkNDA0NzRkOGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._on2cwOewRegBY015JGle-kYcIjQQxLMhQ7s5Zx4OsI" width=5% valign="bottom">Commonly Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
