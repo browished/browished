@@ -25,23 +25,16 @@
 </h2>
 
 ```javascript
-class Person {
-  constructor(name, username, age, job, hobbies) {
-    this.name = name;
-    this.username = username;
-    this.age = age;
-    this.job = job;
-    this.hobbies = hobbies;
-  }
+{
+  "name": "DEVROCK",
+  "username": "browished",
+  "age": 20,
+  "job": "developer | Web developer",
+  "hobbies": [
+    "code",
+    "anime",
+    "music",
+    "gaming"
+  ]
 }
-
-const me = new Person(
-  "DEVROCK",
-  "browished",
-  20,
-  "developer | Web developer",
-  ["code", "anime", "music", "gaming"]
-);
-
-console.log(me);
 ```
