@@ -139,4 +139,4 @@ hobbies: code, anime, music, gaming
 <img src="https://raw.githubusercontent.com/browished/browished/output/snake.svg" alt="Snake animation" />
 
 ###
-<img src="./assets/images/footer.jpg">
+<img src="./assets/images/footer.png">
