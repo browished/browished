@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,100:48cae4&height=200&section=header&text=DEVROCK&fontSize=60&fontColor=2596be&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=2596be&height=200&section=header&text=DEVROCK&fontSize=60&fontColor=ffffff&animation=twinkling)
 
 
 <table border="0">
