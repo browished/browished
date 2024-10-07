@@ -34,6 +34,6 @@ job: developer | Web developer
 hobbies: code, anime, music, gaming
 
 ```
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/browished/browished/refs/heads/main/assets/images/line.gif" width="100%"></p>
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
