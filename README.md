@@ -25,7 +25,6 @@
 </h2>
 
 ```js
-{
 "name": "DEVROCK",
 "username": "browished",
 "age": 20,
@@ -35,7 +34,6 @@
 "anime",
 "music",
 "gaming"
-  ]
-}
+
 
 ```
