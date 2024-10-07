@@ -24,8 +24,6 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </h2>
 
-## Usage
-
 ```js
 import packageJson from 'package-json';
 
