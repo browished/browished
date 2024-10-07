@@ -1,7 +1,5 @@
 <h2 align="left">I am Devrock, a skilled web and backend developer.</h2>
-<img width=100% title="ANONYMOUS U7P4L" alt="ANONYMOUS U7P4L" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
-###
-
+<img width=100% title="DEVROCK" alt="DEVROCK" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=browished&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=browished&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
