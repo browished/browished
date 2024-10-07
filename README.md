@@ -34,6 +34,6 @@ job: developer | Web developer
 hobbies: code, anime, music, gaming
 
 ```
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1277609680310632499/1292856474086670448/giphy_1.gif?ex=670541eb&is=6703f06b&hm=56698caf704c6efc9d80ba6ee5a5d9ae5e12beb9157b4ca6a1d3ac8dd9ca9b6a&" width="20%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="50%"></p>
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
