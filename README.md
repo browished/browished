@@ -5,8 +5,8 @@
 </h2>
 
  ```js
-> - **browished**
-> - **zenithsenpai07**
+> - browished
+> - zenithsenpai07
 ```
 <table border="0">
   <tr>
