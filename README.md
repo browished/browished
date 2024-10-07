@@ -141,4 +141,6 @@ hobbies: code, anime, music, gaming
 
 <p align="center"><img src="https://raw.githubusercontent.com/browished/browished/refs/heads/main/assets/images/Rainbow.gif" width="100%"></p>
 
-<img src="./assets/images/footer.png">
+<div align="center">
+  <img src="./assets/images/footer.png" alt="Centered Image">
+</div>
