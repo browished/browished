@@ -121,3 +121,9 @@ hobbies: code, anime, music, gaming
 
 <p align="center"><img src="https://raw.githubusercontent.com/browished/browished/refs/heads/main/assets/images/Rainbow.gif" width="100%"></p>
 
+### 📊 Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=browished&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
