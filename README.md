@@ -26,15 +26,15 @@
 
 ```js
 {
-  "name": "DEVROCK",
-  "username": "browished",
-  "age": 20,
-  "job": "developer | Web developer",
-  "hobbies": [
-    "code",
-    "anime",
-    "music",
-    "gaming"
+"name": "DEVROCK",
+"username": "browished",
+"age": 20,
+"job": "developer | Web developer",
+"hobbies": [
+"code",
+"anime",
+"music",
+"gaming"
   ]
 }
 
