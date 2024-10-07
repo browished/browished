@@ -25,11 +25,17 @@
 </h2>
 
 ```js
-import packageJson from 'package-json';
+{
+  "name": "DEVROCK",
+  "username": "browished",
+  "age": 20,
+  "job": "developer | Web developer",
+  "hobbies": [
+    "code",
+    "anime",
+    "music",
+    "gaming"
+  ]
+}
 
-console.log(await packageJson('ava'));
-//=> {name: 'ava', …}
-
-// Also works with scoped packages
-console.log(await packageJson('@sindresorhus/df'));
 ```
