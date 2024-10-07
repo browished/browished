@@ -109,3 +109,4 @@ hobbies: code, anime, music, gaming
     </td>
   </tr>
 </table>
+<p align="center"><img src="https://raw.githubusercontent.com/browished/browished/refs/heads/main/assets/images/Rainbow.gif" width="100%"></p>
