@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=2596be&height=200&section=header&text=DEVROCK&fontSize=60&fontColor=ffffff&animation=twinkling)
 
+> **Note:**  
+> 🦄 GitHub IDs:
+> - **browished**
+> - **zenithsenpai07**
 
 <table border="0">
   <tr>
