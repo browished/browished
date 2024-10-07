@@ -20,31 +20,28 @@
   </tr>
 </table>
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
+</h2>
 
-```go
-package main
-
-import "fmt"
-
-type Person struct {
-  name string
-  username string
-  age int
-  hobbies []string
-  job string
+```javascript
+class Person {
+  constructor(name, username, age, job, hobbies) {
+    this.name = name;
+    this.username = username;
+    this.age = age;
+    this.job = job;
+    this.hobbies = hobbies;
+  }
 }
 
-func main() {
-  var me = new(Person)
-  
-  me.name     = "U7P4L 1N"
-  me.username = "U7P4L-IN"
-  me.age      = "20"
-  me.job      = "AI developer | Web developer"
-  me.hobbies  = []string{"code", "anime", "music"," guiterist"," gaming"}
-  
-  fmt.Println(me)
-}
+const me = new Person(
+  "DEVROCK",
+  "browished",
+  20,
+  "developer | Web developer",
+  ["code", "anime", "music", "gaming"]
+);
+
+console.log(me);
 ```
