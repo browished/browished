@@ -24,25 +24,17 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </h2>
 
-```js
-{
-  "name": "my-node-project",
-  "version": "1.0.0",
-  "description": "A simple Node.js project",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "DEVROCK",
-  "license": "ISC",
-  "dependencies": {
-    // Add your project dependencies here
-  },
-  "devDependencies": {
-    // Add your development dependencies here
-  }
-}
 
+```yaml
+# My Information
+name: DEVROCK
+username: browished
+age: 20
+job: developer | Web developer
+hobbies:
+  - code
+  - anime
+  - music
+  - gaming
 
 ```
