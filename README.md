@@ -34,3 +34,4 @@ job: developer | Web developer
 hobbies: code, anime, music, gaming
 
 ```
+## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
